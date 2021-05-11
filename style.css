@@ -1,0 +1,105 @@
+div{
+    border-radius: 15px;
+}
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height:50px;
+    width: 100%;
+    background-color: #000f0e;
+    margin-bottom: 10px
+    }
+
+#name {
+    float:right;
+	margin-right: : 60px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+#email{
+    float:left;
+    margin-left: 2px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: #ffffff;
+}
+
+
+#lnk{
+    float:left;
+    font-family: Verdana, sans-serif;
+    color: #000000;
+}
+
+
+a:hover {
+    font-weight: bold;
+}
+.right
+{
+    float: left;
+    margin-top: 50px;
+    padding-left:5px;
+    height: auto;
+    width: 99%;
+    background-color: #f9faf7;
+    }
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color:#000f0e;
+    }
+
+
+    
+
+    
+h3
+{
+    text-decoration: underline;
+    }
+
+#job
+{
+    padding: 1px;
+    }
+#job-title
+{
+    font-weight: bold;
+    }
+table
+{
+    border: 1px  black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #000000;
+    }
+
+#course-name
+{
+    font-weight:bold;
+    }
+
+#company-name
+{
+    height:2px;
+    text-decoration:underline;
+    }
+#job-title
+{
+    height: 5px;
+    }
+
+#heading
+{
+    font-weight:bold;
+    }
